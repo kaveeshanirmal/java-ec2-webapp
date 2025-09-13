@@ -1,10 +1,6 @@
 <html>
     <body>
-        <h2>Hello Kaveesha</h2>
-        <p>This is my Nextwork web application working</p>
-        <p>
-            If you see this line in Github, that means your latest changes are
-            getting pushed to your cloud repo :o
-        </p>
+        <h2>Hey My CI/CD Pipeline worked!</h2>
+        <h3>Don't mind this UI, I'm pretty bad at web development</h3>
     </body>
 </html>
